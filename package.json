@@ -44,6 +44,7 @@
     "node": "^4.5 || 6.* || >= 7.*"
   },
   "dependencies": {
-    "atom": "^1.1.0"
+    "atom": "^1.1.0",
+    "ember-bootstrap": "^1.2.0"
   }
 }
